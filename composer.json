@@ -2,6 +2,7 @@
   "name": "pbrisson/moneris-php-api",
   "description": "Package wrapper for Moneris PHP API.",
   "type": "library",
+  "license": "MIT",
   "require": {
     "php": ">=5.5",
     "ext-curl": "*"

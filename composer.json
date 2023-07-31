@@ -1,0 +1,12 @@
+{
+  "name": "pbrisson/moneris-php-api",
+  "description": "Package wrapper for Moneris PHP API.",
+  "type": "library",
+  "require": {
+    "php": ">=5.5",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "classmap": ["mpgClasses.php"]
+  }
+}

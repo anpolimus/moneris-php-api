@@ -10,5 +10,5 @@ Useful for Laravel!
 You can install the package via composer:
 
 ``` bash
-composer require pbrisson/moneris-php-api
+composer require anpolimus/moneris-php-api
 ```

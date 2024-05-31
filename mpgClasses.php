@@ -103,7 +103,6 @@ class mpgHttpsPost
   var $xmlString;
   var $txnType;
   var $isMPI;
-  var $isMPI2;
 
   public function __construct($storeid,$apitoken,$mpgRequestOBJ)
   {
